@@ -1,0 +1,7 @@
+{
+  "redmineUrl" : "",
+  "user": "",
+  "password": "",
+  "outputDir": "output/",
+  "insecure": false
+}
